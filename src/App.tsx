@@ -1,8 +1,8 @@
 import React from 'react';
-import AuthenticationWrapper from './components/AuthenticationWrapper';
+import WorkflowApp from './components/WorkflowApp';
 
 function App() {
-  return <AuthenticationWrapper />;
+  return <WorkflowApp />;
 }
 
 export default App;

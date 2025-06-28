@@ -1,5 +1,5 @@
 {
-  "name": "influence-mate-auth-system",
+  "name": "workflow-designer",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -15,12 +15,7 @@
     "zustand": "^4.4.7",
     "lucide-react": "^0.344.0",
     "framer-motion": "^10.16.16",
-    "@supabase/supabase-js": "^2.39.0",
-    "reactflow": "^11.10.4",
-    "@codemirror/view": "^6.23.0",
-    "@codemirror/state": "^6.4.0",
-    "@codemirror/lang-javascript": "^6.2.1",
-    "@codemirror/theme-one-dark": "^6.1.2"
+    "reactflow": "^11.10.4"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
